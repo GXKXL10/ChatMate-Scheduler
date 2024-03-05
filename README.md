@@ -1,4 +1,5 @@
-# Whatsapp-Automation
+# Chatmate Scheduler
+
 A simply python program with GUI to schedulde and send whatsapp messages
 
 install pywhatkit and tkinter libraries before running
